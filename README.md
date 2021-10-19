@@ -32,6 +32,15 @@ Needle-based percutaneous interventions are among the most common minimally inva
 
 ## Organizers
 
+* Pedro Moreira, Ph.D. (Chair, Harvard Medical School, Boston, MA, USA)
+* Junichi Tokuda, Ph.D. (Harvard Medical School, Boston, MA, USA)
+* Nobuhiko Hata, Ph.D. (Harvard Medical School, Boston, MA, USA)
+* Iulian Iordachita, Ph.D. (Johns Hopkins University, Baltimore, MD, USA)
+* Gregory Fischer, Ph.D. (Worcester Polytechnic Institute, Worcester, MA, USA)
+* Haichong Zhang, Ph.D. (Worcester Polytechnic Institute, Worcester, MA, USA)
+
+## Contact
+Pedro Moreira: plopesdafrotamoreira@bwh.harvard.edu
 
 
 
