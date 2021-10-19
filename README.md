@@ -1,3 +1,10 @@
 
-## 2021 ISMR Workhop
 # Improving clinical outcomes of image-guided needle-based interventions: development and clinical translation of new approaches
+ <font size="1"> 2021 ISMR Workhop </font>
+November 17th 2021
+
+Needle-based percutaneous interventions are among the most common minimally invasive procedures for diagnostic and therapeutic purposes. Beyond the current pursuit of minimizing the invasiveness of surgical interventions, there is a trend pushing towards enhanced accuracy and personalized procedures. In this context, robotic systems can significantly improve the accuracy of such needle-based interventions. Robot-assisted needle-based interventions have been an active research topic in the past two decades, with numerous robotic devices and technologies investigated and just a few translated into clinical practice. Currently, medical imaging techniques such as ultrasound, computational tomography (CT), and magnetic resonance (MR) are the gold standard to guide needles into the desired location. The recent advancement of imaging technologies allows the visualization of anatomical and functional information, such as detecting and localizing early-stage diseases. The combination of imaging technologies and robotic guidance has created a pathway toward precision intervention and patient-specific treatment. However, bringing new technologies to the operating room to improve the procedure performance and clinical efficacy is not trivial. 
+
+This workshop aims to bring together researchers and scientists of different backgrounds to provide an opportunity to discuss the challenges for deploying new robotic systems for needle-based interventions. Examples of such challenges are: the use of patient-specific data to improve preoperative planning; development of devices appropriate for the operating room and compatible with the imaging modality; modeling the needle deflection when in contact with different tissues; tracking the needle in real-time; developing safe and reliable closed-loop control algorithms. Besides the technology development, proving the superiority over conventional methods and adapting the clinical workflow to the new approach are critical steps towards deploying such devices into clinical practice. 
+
+
