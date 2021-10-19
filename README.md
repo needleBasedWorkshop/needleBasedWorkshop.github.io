@@ -18,17 +18,17 @@ Needle-based percutaneous interventions are among the most common minimally inva
 
 ## Schedule (tentative):
 
-##### 1:30PM Introduction
-##### 1:40PM Jocelyne Trocazz (Université Grenoble-Alpes, France)
-##### 2:00PM Holden Wu (UCLA Department of Radiological Sciences, USA)
-##### 2:20PM Pedro Moreira or Junichi Tokuda (Brigham and Women’s Hospital and Harvard Medical School, USA)
-##### 2:40PM Cenk Cavusoglu (Case Western Reserve University, USA)
-##### 3:00PM Coffee Break
-##### 3:30PM Stefano Stramigioli (University of Twente, Netherlands) 
-##### 3:50PM Mahdi Tavakoli (University of Alberta, Canada)
-##### 4:10PM Iulian Iordachita (Johns Hopkins University, USA)
-##### 4:30PM Haichong (Kai) Zhang (Worcester Polytechnic Institute, USA)
-##### 4:50PM Closing Remarks
+* 1:30PM Introduction
+* 1:40PM Jocelyne Trocazz (Université Grenoble-Alpes, France)
+* 2:00PM Holden Wu (UCLA Department of Radiological Sciences, USA)
+* 2:20PM Pedro Moreira or Junichi Tokuda (Brigham and Women’s Hospital and Harvard Medical School, USA)
+* 2:40PM Cenk Cavusoglu (Case Western Reserve University, USA)
+* 3:00PM Coffee Break
+* 3:30PM Stefano Stramigioli (University of Twente, Netherlands) 
+* 3:50PM Mahdi Tavakoli (University of Alberta, Canada)
+* 4:10PM Iulian Iordachita (Johns Hopkins University, USA)
+* 4:30PM Haichong (Kai) Zhang (Worcester Polytechnic Institute, USA)
+* 4:50PM Closing Remarks
 
 ## Organizers
 
