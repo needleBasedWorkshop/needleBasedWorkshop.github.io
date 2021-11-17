@@ -16,6 +16,9 @@ Needle-based percutaneous interventions are among the most common minimally inva
 ### Structure: 
 20 minutes presentation from invited speakers
 
+### Link for joining the workshop remotely
+https://bluejeans.com/111198993/4961?src=join_info
+
 ## Schedule (tentative):
 
 * 1:30PM Introduction
