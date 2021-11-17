@@ -18,6 +18,7 @@ Needle-based percutaneous interventions are among the most common minimally inva
 
 ### Link for joining the workshop remotely
 [link to the virtual room](https://bluejeans.com/111198993/4961?src=join_info)
+Only for registered attendees
 
 ## Schedule (tentative):
 
