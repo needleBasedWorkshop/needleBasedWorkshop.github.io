@@ -21,14 +21,14 @@ Needle-based percutaneous interventions are among the most common minimally inva
 * 1:30PM Introduction
 * 1:40PM **Jocelyne Trocazz** (Université Grenoble-Alpes, France), *"Image and robot-assisted prostate brachytherapy"*
 * 2:00PM **Holden Wu** (UCLA Department of Radiological Sciences, USA), *Computer-Aided and Robotic Methods for MRI-Guided Needle-Based Interventions*
-* 2:20PM **Sarthak Misra** (University of Twente and University Medical Center Groningen, Netherlands)  *TBD*
-* 2:40PM **Cenk Cavusoglu** (Case Western Reserve University, USA), *TBD*
+* 2:20PM **Sarthak Misra** (University of Twente and University Medical Center Groningen, Netherlands)  *Connecting the dots: Online shape sensing of flexible instruments*
+* 2:40PM **Pedro Moreira** (Brigham and Women’s Hospital and Harvard Medical School, USA), *Improving targeting accuracy in MRI-guided prostate interventions*
 * 3:00PM Coffee Break
 * 3:30PM **Stefano Stramigioli** (University of Twente, Netherlands), *MRI compatible robotics solutions for clinical care: from actuation technology to future clinical applications*
 * 3:50PM **Mahdi Tavakoli** (University of Alberta, Canada), *Closed-Loop Control for Needle Steering in Brachytherapy*
 * 4:10PM **Iulian Iordachita** (Johns Hopkins University, USA), *Needle shape detection for interventional MRI*
-* 4:30PM  **Pedro Moreira** (Brigham and Women’s Hospital and Harvard Medical School, USA), *TBD*
-* 4:50PM **Haichong (Kai) Zhang** (Worcester Polytechnic Institute, USA), *TBD*
+* 4:30PM **Haichong (Kai) Zhang** (Worcester Polytechnic Institute, USA), *Needle-aligned ultrasound imaging for percutaneous intervention*
+* 4:50PM Closing remarks
 
 
 ## Organizers
